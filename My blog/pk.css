@@ -1,0 +1,31 @@
+h3{
+  color:magenta;
+}
+.blog {
+  background-color: black;
+}
+ .ind {
+   color: lightblue;
+ }
+h1{ color:blue;
+  text-align: center;
+}
+.Author-name{color:red}
+div{border:5px double darkgreen;
+border-radius:50px;
+margin:10px 10px 10px;
+padding:10px;
+height: 200px;
+width:350px;
+}
+
+p{text-align:justify;
+  color:white;
+}
+.dis{
+  color:red;
+  display:block;
+}
+small{
+  color:violet;
+}
